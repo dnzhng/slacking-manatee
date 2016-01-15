@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Slack bot that gets images from calming manatee",
   "main": "lib/manateebot.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node bin/bot.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dnzhng/slacking-manatee.git"
