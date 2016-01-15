@@ -1,0 +1,25 @@
+{
+  "name": "slacking-manatee",
+  "version": "1.0.0",
+  "description": "Slack bot that gets images from calming manatee",
+  "main": "lib/manateebot.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnzhng/slacking-manatee.git"
+  },
+  "keywords": [
+    "slack",
+    "integration",
+    "manatees"
+  ],
+  "author": "Daniel Zhang",
+  "bugs": {
+    "url": "https://github.com/dnzhng/slacking-manatee/issues"
+  },
+  "homepage": "https://github.com/dnzhng/slacking-manatee#readme",
+  "dependencies": {
+    "slackbots": "^0.5.1",
+    "sqlite3": "^3.1.1"
+  }
+}
